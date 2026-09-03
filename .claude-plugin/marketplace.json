@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-marketplace.json",
+  "name": "servelink",
+  "description": "serve — give anything on your machine a public HTTPS link, from your agent.",
+  "owner": {
+    "name": "swyftlabs",
+    "email": "serve@servelink.cc",
+    "url": "https://servelink.cc"
+  },
+  "plugins": [
+    {
+      "name": "serve",
+      "source": "./",
+      "description": "Ask your AI to share what you just made. Gives anything on your machine a public HTTPS link — live from your computer, or hosted so it outlives the session.",
+      "category": "productivity",
+      "tags": ["mcp", "share", "public-link", "tunnel", "hosting"]
+    }
+  ]
+}
