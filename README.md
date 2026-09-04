@@ -2,7 +2,7 @@
 
 **You already ask your AI to make things. Now ask it to share them.**
 
-[![smithery badge](https://smithery.ai/badge/hello-s6b0/serve)](https://smithery.ai/servers/hello-s6b0/serve)
+[![smithery badge](https://smithery.ai/badge/servelink/servemcp)](https://smithery.ai/servers/servelink/servemcp)
 
 ```
 you:      "serve me this"
