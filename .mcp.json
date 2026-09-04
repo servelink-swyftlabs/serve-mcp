@@ -2,7 +2,7 @@
   "mcpServers": {
     "serve": {
       "command": "npx",
-      "args": ["-y", "@servelink/serve"]
+      "args": ["-y", "@servelink/serve@latest"]
     }
   }
 }

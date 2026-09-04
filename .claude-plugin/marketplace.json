@@ -11,7 +11,7 @@
     {
       "name": "serve",
       "source": "./",
-      "description": "Ask your AI to share what you just made. Gives anything on your machine a public HTTPS link — live from your computer, or hosted so it outlives the session.",
+      "description": "Ask your AI to share what you just made. Gives anything on your machine a public HTTPS link — live from your computer, or hosted so it outlives the session. Needs a free account: run /serve:serve-setup after installing.",
       "category": "productivity",
       "tags": ["mcp", "share", "public-link", "tunnel", "hosting"]
     }
