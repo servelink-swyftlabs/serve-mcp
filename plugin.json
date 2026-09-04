@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "serve",
+  "version": "0.8.5",
+  "description": "Ask your AI to share what you just made. Gives anything on your machine a public HTTPS link — live from your computer, or hosted so it outlives the session. Needs a free account: run the serve-setup skill after installing.",
+  "author": {
+    "name": "swyftlabs",
+    "url": "https://servelink.cc"
+  },
+  "homepage": "https://servelink.cc",
+  "repository": "https://github.com/servelink-swyftlabs/serve-mcp",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": [
+    "mcp",
+    "share",
+    "public-link",
+    "tunnel",
+    "hosting",
+    "localhost"
+  ]
+}
