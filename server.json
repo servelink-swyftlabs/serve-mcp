@@ -3,7 +3,7 @@
   "name": "cc.servelink/serve",
   "title": "serve",
   "description": "Give anything on your machine a public HTTPS link — live from your computer, or hosted by serve.",
-  "version": "0.8.3",
+  "version": "0.8.5",
   "websiteUrl": "https://servelink.cc",
   "repository": {
     "url": "https://github.com/servelink-swyftlabs/serve-mcp",
@@ -13,7 +13,7 @@
     {
       "registryType": "npm",
       "identifier": "@servelink/serve",
-      "version": "0.8.3",
+      "version": "0.8.5",
       "transport": {
         "type": "stdio"
       }
