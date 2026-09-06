@@ -17,14 +17,6 @@
       "transport": {
         "type": "stdio"
       }
-    },
-    {
-      "registryType": "oci",
-      "identifier": "ghcr.io/servelink-swyftlabs/serve-mcp",
-      "version": "0.8.5",
-      "transport": {
-        "type": "stdio"
-      }
     }
   ]
 }
