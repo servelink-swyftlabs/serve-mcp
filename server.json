@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "cc.servelink/serve",
   "title": "serve",
-  "description": "Give anything on your machine a public HTTPS link — live from your computer, or hosted by serve.",
-  "version": "0.8.5",
+  "description": "Public links for local services and static artifacts: live from your machine or hosted by Serve.",
+  "version": "0.8.6",
   "websiteUrl": "https://servelink.cc",
   "repository": {
     "url": "https://github.com/servelink-swyftlabs/serve-mcp",
@@ -13,7 +13,7 @@
     {
       "registryType": "npm",
       "identifier": "@servelink/serve",
-      "version": "0.8.5",
+      "version": "0.8.6",
       "transport": {
         "type": "stdio"
       }
