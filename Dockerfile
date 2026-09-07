@@ -13,7 +13,7 @@
 #   docker run --rm -i serve-mcp
 FROM node:22-bookworm-slim
 
-RUN npm install -g @servelink/serve@0.8.6 \
+RUN npm install -g @servelink/serve@0.8.7 \
     && npm cache clean --force
 
 # Nothing here needs root, and the config the CLI writes belongs to the user.

@@ -3,7 +3,7 @@
   "name": "serve",
   "displayName": "serve",
   "description": "Ask your AI to share what you just made. Gives anything on your machine a public HTTPS link — live from your computer, or hosted so it outlives the session. Needs a free account: run /serve:serve-setup after installing.",
-  "version": "0.8.6",
+  "version": "0.8.7",
   "author": {
     "name": "swyftlabs",
     "url": "https://servelink.cc"
