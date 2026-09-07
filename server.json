@@ -3,7 +3,7 @@
   "name": "cc.servelink/serve",
   "title": "serve",
   "description": "Public links for local services and static artifacts: live from your machine or hosted by Serve.",
-  "version": "0.8.7",
+  "version": "0.8.8",
   "websiteUrl": "https://servelink.cc",
   "repository": {
     "url": "https://github.com/servelink-swyftlabs/serve-mcp",
@@ -13,7 +13,7 @@
     {
       "registryType": "npm",
       "identifier": "@servelink/serve",
-      "version": "0.8.7",
+      "version": "0.8.8",
       "transport": {
         "type": "stdio"
       }
